@@ -1,5 +1,5 @@
 <?php
-$dsn = "mysql:host=localhost;dbname=ecommerce;charset=utf8"; // تصحيح اسم قاعدة البيانات
+$dsn = "mysql:localhost:8080;dbname=heartalgezira"; // تصحيح اسم قاعدة البيانات
 $user = "root";
 $pass = "";
 $options = array(
